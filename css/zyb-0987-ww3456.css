@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.conteiner{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+}
+.secao{
+    display: flex;
+}
+.cabecalho nav{
+    width: 250px;
+}
+
