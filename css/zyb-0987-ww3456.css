@@ -15,4 +15,7 @@
 .cabecalho nav{
     width: 250px;
 }
+.cabecalho a {
+    color: black;
+}
 
